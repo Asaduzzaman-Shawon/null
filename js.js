@@ -15,7 +15,8 @@ console.log(clas)
 
 
 
-
+const  nam = "swovn";
+console.log(nam)
 
 
 
