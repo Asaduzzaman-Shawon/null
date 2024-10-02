@@ -43,23 +43,31 @@
 // console.log(y)
 
 
-const student = {
-    fullName : 'rahul',
-    age : 14,
-    class : 4,
-    fatherName : "suraj"
+// const student = {
+//     fullName : 'rahul',
+//     age : 14,
+//     class : 4,
+//     fatherName : "suraj"
+// }
+
+// console.log(student)
+
+// console.log(student['age'])
+// console.log(student.fatherName)
+
+// student.fullName = 'sunil kumar';
+// console.log(student.fullName)
+
+const product = {
+    nam : "pen",
+    ratings : 4.5,
+    deal : 'on',
+    price : 270,
+    discount : '5%',
+
 }
 
-console.log(student)
-
-console.log(student['age'])
-console.log(student.fatherName)
-
-student.fullName = 'sunil kumar';
-console.log(student.fullName)
-
-
-
+console.log(product['ratings'])
 
 
 
