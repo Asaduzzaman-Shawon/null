@@ -37,16 +37,26 @@
 // let x = null;
 
 
-let x = BigInt('123');
+// let x = BigInt('123');
 
-let y = Symbol('hello?');
-console.log(y)
-
-
+// let y = Symbol('hello?');
+// console.log(y)
 
 
+const student = {
+    fullName : 'rahul',
+    age : 14,
+    class : 4,
+    fatherName : "suraj"
+}
 
+console.log(student)
 
+console.log(student['age'])
+console.log(student.fatherName)
+
+student.fullName = 'sunil kumar';
+console.log(student.fullName)
 
 
 
