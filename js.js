@@ -100,14 +100,41 @@ const product = {
 //  console.log(c)
 
 
-let a = 7;
-let b = 8;
+// let a = 7;
+// let b = 8;
 
-let cond1 = a===7;
-let cond2 = b===8;
-let cond3 = cond1 && cond2;
+// let cond1 = !(a===7);//false
+// let cond2 = !(b===8);//true
+// let cond3 = cond1 && cond2;
 
-console.log(cond3);
+// console.log(cond3);
+
+//conditional statements
+
+let age = 8;
+
+// if(age >= 18){
+//     console.log('You Can Vote')
+// }
+// else{
+//     console.log("You cant vote")
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
