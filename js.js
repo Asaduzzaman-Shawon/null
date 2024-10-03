@@ -67,20 +67,47 @@ const product = {
 
 }
 
-console.log(product['ratings'])
+// console.log(product['ratings'])
+
+// console.log(product.discount)
+// console.log(product.ratings)
 
 
+// let a = 5;
+// a++;
+// console.log(a)
+
+// let b = 5;
+// let c = 6;
+// console.log('a / b =' , b/c);
+
+// let a = 4;
+// a--
+// console.log(a)
 
 
+//assingment operator //
+
+// let a = 7;
+// let b = 3;
+// a **= 4
+// console.log(a)
+
+//comparison 
+//  let a = 8;
+//  let b = "8";
+//  let c = a===b;
+//  console.log(c)
 
 
+let a = 7;
+let b = 8;
 
+let cond1 = a===7;
+let cond2 = b===8;
+let cond3 = cond1 && cond2;
 
-
-
-
-
-
+console.log(cond3);
 
 
 
