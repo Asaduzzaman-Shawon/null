@@ -111,7 +111,7 @@ const product = {
 
 //conditional statements
 
-let age = 8;
+// let age = 8;
 
 // if(age >= 18){
 //     console.log('You Can Vote')
@@ -121,9 +121,24 @@ let age = 8;
 // }
 
 
+// let age = 12;
+
+// let can = "You  can vote"
+// let cannt = "You cant vote"
+// if(age >= 18){
+//     console.log(can)
+// }
+// else(
+//     console.log(cannt)
+
+// )
+ 
 
 
 
+
+
+history
 
 
 
